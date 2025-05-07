@@ -28,3 +28,4 @@ C:\Users\marcelo.muniz\Documents\Estudos\SalesWebMvc\obj\Debug\net8.0\refint\Sal
 C:\Users\marcelo.muniz\Documents\Estudos\SalesWebMvc\obj\Debug\net8.0\SalesWebMvc.pdb
 C:\Users\marcelo.muniz\Documents\Estudos\SalesWebMvc\obj\Debug\net8.0\SalesWebMvc.genruntimeconfig.cache
 C:\Users\marcelo.muniz\Documents\Estudos\SalesWebMvc\obj\Debug\net8.0\ref\SalesWebMvc.dll
+C:\Users\marcelo.muniz\Documents\Estudos\SalesWebMvc\obj\Debug\net8.0\SalesWebMvc.sourcelink.json
